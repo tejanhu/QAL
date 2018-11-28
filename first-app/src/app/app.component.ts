@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'welcome-guest',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls:[]
 })
 export class AppComponent {
   title = 'first-app';
